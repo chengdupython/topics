@@ -2,7 +2,7 @@
 
 ### 提交感兴趣的话题
 
-请在 [Issues][https://github.com/chengdupython/topics/issues] 里提交话题。提交前请检查类似是否已经有人提交过，可以参与到之前的讨论里。
+请在 [Issues](https://github.com/chengdupython/topics/issues) 里提交话题。提交前请检查类似是否已经有人提交过，可以参与到之前的讨论里。
 
 ### 对已有话题进行投票
 
